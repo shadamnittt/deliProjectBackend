@@ -3,12 +3,12 @@ from app.models.film import Film
 from app.models.genre import Genre
 from app.models.actor import Actor
 from app.models.director import Director
-from app.models.keyword import Keyword
 
 def get_film_by_title(db: Session, title: str):
     return db.query(Film).filter(Film.title == title).first()
 
-def add_film(db: Session, title: str, year: int, description: str, rating: float, poster: str):
+def add_film(db: 
+    Session, title: str, year: int, description: str, rating: float, poster: str):
     film = Film(title=title, year=year, description=description, rating=rating, poster=poster)
     db.add(film)
     db.commit()
@@ -42,11 +42,3 @@ def get_or_create_director(db: Session, name: str):
         db.refresh(director)
     return director
 
-def get_or_create_keyword(db: Session, name: str):
-    keyword = db.query(Keyword).filter(Keyword.name == name).first()
-    if not keyword:
-        keyword = Keyword(name=name)
-        db.add(keyword)
-        db.commit()
-        db.refresh(keyword)
-    return keyword

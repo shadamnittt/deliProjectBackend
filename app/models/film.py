@@ -21,12 +21,6 @@ film_director = Table(
     Column("director_id", Integer, ForeignKey("directors.id"), primary_key=True)
 )
 
-film_keyword = Table(
-    "film_keyword", Base.metadata,
-    Column("film_id", Integer, ForeignKey("films.id"), primary_key=True),
-    Column("keyword_id", Integer, ForeignKey("keywords.id"), primary_key=True)
-)
-
 class Film(Base):
     __tablename__ = "films"
 
@@ -40,4 +34,4 @@ class Film(Base):
     genres = relationship("Genre", secondary=film_genre, back_populates="films")
     actors = relationship("Actor", secondary=film_actor, back_populates="films")
     directors = relationship("Director", secondary=film_director, back_populates="films")
-    keywords = relationship("Keyword", secondary=film_keyword, back_populates="films")
+   

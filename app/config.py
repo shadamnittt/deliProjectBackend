@@ -1,9 +1,7 @@
 import os
-
 from dotenv import load_dotenv
 
 load_dotenv(override=True)
-
 
 # Settings of project information.
 project_settings = {
@@ -11,7 +9,6 @@ project_settings = {
     "version": "1.0",
     "description": "Fast API application. Application include asyncpg+sqlalchemy technologies",
 }
-
 
 # Settings for database connection
 class ProdDBSettings:
@@ -48,7 +45,7 @@ class TestDBSettings:
     DB_PASSWORD: str = os.getenv("DB_PASSWORD")
     DB_HOST: str = "localhost"
     DB_PORT: str = "5432"
-    DB_NAME: str = "db_test_api"
+    DB_NAME: str = "postgres"
     DATABASE_URL: str = (
         f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
     )

@@ -1,0 +1,5 @@
+uvicorn app.router:app --reload
+npm run dev
+alembic revision --autogenerate -m "initial migration"
+alembic upgrade head
+python -m parsing.parse_films 

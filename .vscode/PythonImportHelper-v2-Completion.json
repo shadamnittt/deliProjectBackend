@@ -1,0 +1,2844 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Connection",
+        "importPath": "sqlalchemy.engine",
+        "description": "sqlalchemy.engine",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.engine",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "actor",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "director",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "film",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "genre",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Actor",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Film",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Director",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Actor",
+        "importPath": "app.models.actor",
+        "description": "app.models.actor",
+        "isExtraImport": true,
+        "detail": "app.models.actor",
+        "documentation": {}
+    },
+    {
+        "label": "Actor",
+        "importPath": "app.models.actor",
+        "description": "app.models.actor",
+        "isExtraImport": true,
+        "detail": "app.models.actor",
+        "documentation": {}
+    },
+    {
+        "label": "Director",
+        "importPath": "app.models.director",
+        "description": "app.models.director",
+        "isExtraImport": true,
+        "detail": "app.models.director",
+        "documentation": {}
+    },
+    {
+        "label": "Director",
+        "importPath": "app.models.director",
+        "description": "app.models.director",
+        "isExtraImport": true,
+        "detail": "app.models.director",
+        "documentation": {}
+    },
+    {
+        "label": "Film",
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "isExtraImport": true,
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "Film",
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "isExtraImport": true,
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_actor",
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "isExtraImport": true,
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_director",
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "isExtraImport": true,
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_genre",
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "isExtraImport": true,
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "importPath": "app.models.genre",
+        "description": "app.models.genre",
+        "isExtraImport": true,
+        "detail": "app.models.genre",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "importPath": "app.models.genre",
+        "description": "app.models.genre",
+        "isExtraImport": true,
+        "detail": "app.models.genre",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "isExtraImport": true,
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "isExtraImport": true,
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "isExtraImport": true,
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.orm.user",
+        "description": "app.orm.user",
+        "isExtraImport": true,
+        "detail": "app.orm.user",
+        "documentation": {}
+    },
+    {
+        "label": "Hasher",
+        "importPath": "app.service.hashing",
+        "description": "app.service.hashing",
+        "isExtraImport": true,
+        "detail": "app.service.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "Hasher",
+        "importPath": "app.service.hashing",
+        "description": "app.service.hashing",
+        "isExtraImport": true,
+        "detail": "app.service.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "parse_films_task",
+        "importPath": "app.tasks",
+        "description": "app.tasks",
+        "isExtraImport": true,
+        "detail": "app.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "parse_films_task",
+        "importPath": "app.tasks",
+        "description": "app.tasks",
+        "isExtraImport": true,
+        "detail": "app.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "is_admin",
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "isExtraImport": true,
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "isExtraImport": true,
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "upload_avatar",
+        "importPath": "app.orm.profile",
+        "description": "app.orm.profile",
+        "isExtraImport": true,
+        "detail": "app.orm.profile",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "isExtraImport": true,
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.service.current_user",
+        "description": "app.service.current_user",
+        "isExtraImport": true,
+        "detail": "app.service.current_user",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "starlette",
+        "description": "starlette",
+        "isExtraImport": true,
+        "detail": "starlette",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "isExtraImport": true,
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "isExtraImport": true,
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "importPath": "app.celery_worker",
+        "description": "app.celery_worker",
+        "isExtraImport": true,
+        "detail": "app.celery_worker",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "importPath": "app.celery_worker",
+        "description": "app.celery_worker",
+        "isExtraImport": true,
+        "detail": "app.celery_worker",
+        "documentation": {}
+    },
+    {
+        "label": "FilmParser",
+        "importPath": "parsing.parse_films",
+        "description": "parsing.parse_films",
+        "isExtraImport": true,
+        "detail": "parsing.parse_films",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "time,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time.",
+        "description": "time.",
+        "detail": "time.",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "get_film_by_title",
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "isExtraImport": true,
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "add_film",
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "isExtraImport": true,
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_genre",
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "isExtraImport": true,
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_actor",
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "isExtraImport": true,
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_director",
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "isExtraImport": true,
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.1db1d7d64df9_initial_migration",
+        "description": "alembic.versions.1db1d7d64df9_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(), nullable=False),\n    sa.Column('password_hash', sa.String(), nullable=False),\n    sa.Column('avatar_url', sa.String(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "alembic.versions.1db1d7d64df9_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.1db1d7d64df9_initial_migration",
+        "description": "alembic.versions.1db1d7d64df9_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_users_username'), table_name='users')\n    op.drop_index(op.f('ix_users_id'), table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.1db1d7d64df9_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.82be668fa1fa_initial_migration",
+        "description": "alembic.versions.82be668fa1fa_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.82be668fa1fa_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.82be668fa1fa_initial_migration",
+        "description": "alembic.versions.82be668fa1fa_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    pass\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.82be668fa1fa_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.94d19a4d6895_initial_migration",
+        "description": "alembic.versions.94d19a4d6895_initial_migration",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index('ix_users_id', table_name='users')\n    op.drop_index('ix_users_username', table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "alembic.versions.94d19a4d6895_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.94d19a4d6895_initial_migration",
+        "description": "alembic.versions.94d19a4d6895_initial_migration",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.INTEGER(), autoincrement=True, nullable=False),\n    sa.Column('username', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.Column('password_hash', sa.VARCHAR(), autoincrement=False, nullable=False),\n    sa.PrimaryKeyConstraint('id', name='users_pkey')\n    )\n    op.create_index('ix_users_username', 'users', ['username'], unique=True)",
+        "detail": "alembic.versions.94d19a4d6895_initial_migration",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "description": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('users', sa.Column('role', sa.Enum('user', 'admin', name='userrole'), nullable=True))\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('users', 'role')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "description": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('users', 'role')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.c00fa38e894a_add_userrole_enum_to_user_model",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "description": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "peekOfCode": "def upgrade() -> None:\n    \"\"\"Upgrade schema.\"\"\"\n    # Удаляем индекс для таблицы keywords\n    op.drop_index('ix_keywords_id', table_name='keywords')\n    # Удаляем внешние ключи в таблице film_keyword, которые ссылаются на keywords\n    op.drop_constraint('film_keyword_keyword_id_fkey', 'film_keyword', type_='foreignkey')\n    # Удаляем таблицу film_keyword\n    op.drop_table('film_keyword')\n    # Удаляем таблицу keywords\n    op.drop_table('keywords')",
+        "detail": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "description": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "peekOfCode": "def downgrade() -> None:\n    \"\"\"Downgrade schema.\"\"\"\n    # Восстанавливаем таблицу film_keyword\n    op.create_table('film_keyword',\n        sa.Column('film_id', sa.INTEGER(), autoincrement=False, nullable=False),\n        sa.Column('keyword_id', sa.INTEGER(), autoincrement=False, nullable=False),\n        sa.ForeignKeyConstraint(['film_id'], ['films.id'], name='film_keyword_film_id_fkey'),\n        sa.ForeignKeyConstraint(['keyword_id'], ['keywords.id'], name='film_keyword_keyword_id_fkey'),\n        sa.PrimaryKeyConstraint('film_id', 'keyword_id', name='film_keyword_pkey')\n    )",
+        "detail": "alembic.versions.d8ba02a2391c_remove_keywords_table_and_associations",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online():\n    # Создаём соединение с базой данных с использованием DATABASE_URL\n    connectable = create_engine(\n        DATABASE_URL,\n        poolclass=pool.NullPool\n    )\n    with connectable.connect() as connection:\n        context.configure(\n            connection=connection,\n            target_metadata=target_metadata,  # Указываем target_metadata",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\n# Если строка подключения не была найдена в переменных окружения, можно добавить fallback:\nif not DATABASE_URL:\n    DATABASE_URL = f\"postgresql+psycopg2://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}\"\n# Если все модели используют одну Base, можно указать любую модель, все метаданные будут доступны\ntarget_metadata = Actor.metadata  # или комбинировать метаданные всех моделей\n# Прочие настройки Alembic (не изменяй их)\nfrom alembic import context\n# Ранее настроенный объект Base\nBase = declarative_base()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Actor.metadata  # или комбинировать метаданные всех моделей\n# Прочие настройки Alembic (не изменяй их)\nfrom alembic import context\n# Ранее настроенный объект Base\nBase = declarative_base()\n# Функции подключения и миграции\ndef run_migrations_online():\n    # Создаём соединение с базой данных с использованием DATABASE_URL\n    connectable = create_engine(\n        DATABASE_URL,",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "Base = declarative_base()\n# Функции подключения и миграции\ndef run_migrations_online():\n    # Создаём соединение с базой данных с использованием DATABASE_URL\n    connectable = create_engine(\n        DATABASE_URL,\n        poolclass=pool.NullPool\n    )\n    with connectable.connect() as connection:\n        context.configure(",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "create_admin_if_not_exists",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def create_admin_if_not_exists(db: Session):\n    # Проверяем, существует ли админ\n    existing_admin = db.query(User).filter(User.username == \"queen\").first()\n    if not existing_admin:\n        # Если администратора нет, создаем его\n        admin_user = User(\n            username=\"queen\",  # Можно изменить на желаемое имя\n            password_hash=get_password_hash(\"secret\"),  # Установите безопасный пароль\n            role=UserRole.admin  # Назначаем роль администратора\n        )",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "init_admin",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def init_admin():\n    db_generator = get_db()\n    db = next(db_generator)\n    try:\n        create_admin_if_not_exists(db)\n    finally:\n        db_generator.close()\ninit_admin()\n@router.get(\"/admin/users_lists\")\ndef admin_dashboard(db: Session = Depends(get_db), current_user: User = Depends(is_admin)):",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "admin_dashboard",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def admin_dashboard(db: Session = Depends(get_db), current_user: User = Depends(is_admin)):\n    # Получаем список всех пользователей\n    users = db.query(User).all()\n    return {\"users\": users}\n@router.post(\"/admin/parse_films\")\ndef parse_films(db: Session = Depends(get_db), current_user: User = Depends(is_admin)):\n    # Запускаем парсинг фильмов через Celery\n    parse_films_task.delay()  # Запуск задачи парсинга в фоне\n    return {\"message\": \"Парсинг фильмов запущен\"}\n@router.post(\"/login\")",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "parse_films",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def parse_films(db: Session = Depends(get_db), current_user: User = Depends(is_admin)):\n    # Запускаем парсинг фильмов через Celery\n    parse_films_task.delay()  # Запуск задачи парсинга в фоне\n    return {\"message\": \"Парсинг фильмов запущен\"}\n@router.post(\"/login\")\ndef login(user_data: UserLogin, db: Session = Depends(get_db)):\n    if user_data.username == \"queen\" and user_data.password == \"secret\":\n        access_token = create_access_token(\n            data={\"sub\": \"queen\"},\n            expires_delta=timedelta(days=30)  # Токен для админа действует 30 дней",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def login(user_data: UserLogin, db: Session = Depends(get_db)):\n    if user_data.username == \"queen\" and user_data.password == \"secret\":\n        access_token = create_access_token(\n            data={\"sub\": \"queen\"},\n            expires_delta=timedelta(days=30)  # Токен для админа действует 30 дней\n        )\n        return {\"access_token\": access_token, \"token_type\": \"bearer\"}\n    # Получаем пользователя из базы по имени пользователя\n    user = db.query(User).filter(User.username == user_data.username).first()\n    print(user, user_data.password, user.password_hash, verify_password(user_data.password, user.password_hash))",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def register(user_data: UserCreate, db: Session = Depends(get_db)):\n    # Проверка на существование пользователя с таким же username\n    existing_user = db.query(User).filter(User.username == user_data.username).first()\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Username already registered\")\n    # Если это админ (с username и паролем)\n    if user_data.username == \"queen\" and user_data.password == \"secret\":\n        user_data.role = UserRole.admin  # Назначаем роль админа\n    else:\n        user_data.role = UserRole.user",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "delete_account",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def delete_account(username: str, db: Session = Depends(get_db)):\n    # Получаем пользователя по имени\n    user = db.query(User).filter(User.username == username).first()\n    if not user:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    # Удаляем пользователя из базы\n    db.delete(user)\n    db.commit()\n    return {\"message\": \"User deleted successfully\"}\n@router.put(\"update/{username}\")",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "update_account",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def update_account(username: str, user_update: UserUpdate, db: Session = Depends(get_db)):\n    # Получаем пользователя по имени\n    user = db.query(User).filter(User.username == username).first()\n    if not user:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    # Обновляем данные пользователя\n    if user_update.new_username:\n        user.username = user_update.new_username\n    if user_update.new_password:\n        user.password_hash = get_password_hash(user_update.new_password)",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "search_movies",
+        "kind": 2,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "def search_movies(query: str, db: Session = Depends(get_db)):\n    words = query.split()\n    filters = []\n    for word in words:\n        ilike = f\"%{word}%\"\n        filters += [\n            Film.title.ilike(ilike),\n            Film.description.ilike(ilike),\n            Genre.name.ilike(ilike),\n            Director.name.ilike(ilike),",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.auth.auth",
+        "description": "app.api.auth.auth",
+        "peekOfCode": "router = APIRouter()\ndef create_admin_if_not_exists(db: Session):\n    # Проверяем, существует ли админ\n    existing_admin = db.query(User).filter(User.username == \"queen\").first()\n    if not existing_admin:\n        # Если администратора нет, создаем его\n        admin_user = User(\n            username=\"queen\",  # Можно изменить на желаемое имя\n            password_hash=get_password_hash(\"secret\"),  # Установите безопасный пароль\n            role=UserRole.admin  # Назначаем роль администратора",
+        "detail": "app.api.auth.auth",
+        "documentation": {}
+    },
+    {
+        "label": "read_users_me",
+        "kind": 2,
+        "importPath": "app.api.auth.profile",
+        "description": "app.api.auth.profile",
+        "peekOfCode": "def read_users_me(current_user: User = Depends(get_current_user)):\n    # Возвращаем текущего пользователя\n    return current_user\n@api_router.post(\"/upload_avatar\")\ndef new_avatar(file: UploadFile = File(...), db: Session = Depends(get_db), user: User = Depends(get_current_user)):\n    # Загрузка аватара\n    return upload_avatar(file=file, db=db, user=user)",
+        "detail": "app.api.auth.profile",
+        "documentation": {}
+    },
+    {
+        "label": "new_avatar",
+        "kind": 2,
+        "importPath": "app.api.auth.profile",
+        "description": "app.api.auth.profile",
+        "peekOfCode": "def new_avatar(file: UploadFile = File(...), db: Session = Depends(get_db), user: User = Depends(get_current_user)):\n    # Загрузка аватара\n    return upload_avatar(file=file, db=db, user=user)",
+        "detail": "app.api.auth.profile",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "kind": 5,
+        "importPath": "app.api.auth.profile",
+        "description": "app.api.auth.profile",
+        "peekOfCode": "api_router = APIRouter()\n@api_router.get(\"/me\", response_model=UserOut)\ndef read_users_me(current_user: User = Depends(get_current_user)):\n    # Возвращаем текущего пользователя\n    return current_user\n@api_router.post(\"/upload_avatar\")\ndef new_avatar(file: UploadFile = File(...), db: Session = Depends(get_db), user: User = Depends(get_current_user)):\n    # Загрузка аватара\n    return upload_avatar(file=file, db=db, user=user)",
+        "detail": "app.api.auth.profile",
+        "documentation": {}
+    },
+    {
+        "label": "get_film_by_title",
+        "kind": 2,
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "peekOfCode": "def get_film_by_title(db: Session, title: str):\n    return db.query(Film).filter(Film.title == title).first()\ndef add_film(db: \n    Session, title: str, year: int, description: str, rating: float, poster: str):\n    film = Film(title=title, year=year, description=description, rating=rating, poster=poster)\n    db.add(film)\n    db.commit()\n    db.refresh(film)\n    return film\ndef get_or_create_genre(db: Session, name: str):",
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "add_film",
+        "kind": 2,
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "peekOfCode": "def add_film(db: \n    Session, title: str, year: int, description: str, rating: float, poster: str):\n    film = Film(title=title, year=year, description=description, rating=rating, poster=poster)\n    db.add(film)\n    db.commit()\n    db.refresh(film)\n    return film\ndef get_or_create_genre(db: Session, name: str):\n    genre = db.query(Genre).filter(Genre.name == name).first()\n    if not genre:",
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_genre",
+        "kind": 2,
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "peekOfCode": "def get_or_create_genre(db: Session, name: str):\n    genre = db.query(Genre).filter(Genre.name == name).first()\n    if not genre:\n        genre = Genre(name=name)\n        db.add(genre)\n        db.commit()\n        db.refresh(genre)\n    return genre\ndef get_or_create_actor(db: Session, name: str):\n    actor = db.query(Actor).filter(Actor.name == name).first()",
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_actor",
+        "kind": 2,
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "peekOfCode": "def get_or_create_actor(db: Session, name: str):\n    actor = db.query(Actor).filter(Actor.name == name).first()\n    if not actor:\n        actor = Actor(name=name)\n        db.add(actor)\n        db.commit()\n        db.refresh(actor)\n    return actor\ndef get_or_create_director(db: Session, name: str):\n    director = db.query(Director).filter(Director.name == name).first()",
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_director",
+        "kind": 2,
+        "importPath": "app.db.crud",
+        "description": "app.db.crud",
+        "peekOfCode": "def get_or_create_director(db: Session, name: str):\n    director = db.query(Director).filter(Director.name == name).first()\n    if not director:\n        director = Director(name=name)\n        db.add(director)\n        db.commit()\n        db.refresh(director)\n    return director",
+        "detail": "app.db.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "DATABASE_URL = \"postgresql+asyncpg://postgres:123Wayther@localhost:5432/postgres\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Создаем базовый класс для моделей\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Создаем базовый класс для моделей\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Создаем базовый класс для моделей\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Actor",
+        "kind": 6,
+        "importPath": "app.models.actor",
+        "description": "app.models.actor",
+        "peekOfCode": "class Actor(Base):\n    __tablename__ = \"actors\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String, nullable=False)\n    films = relationship(\"Film\", secondary=film_actor, back_populates=\"actors\")",
+        "detail": "app.models.actor",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.models.base_class",
+        "description": "app.models.base_class",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass",
+        "detail": "app.models.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "Director",
+        "kind": 6,
+        "importPath": "app.models.director",
+        "description": "app.models.director",
+        "peekOfCode": "class Director(Base):\n    __tablename__ = \"directors\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=film_director, back_populates=\"directors\")",
+        "detail": "app.models.director",
+        "documentation": {}
+    },
+    {
+        "label": "Film",
+        "kind": 6,
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "peekOfCode": "class Film(Base):\n    __tablename__ = \"films\"\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, unique=True, nullable=False)\n    year = Column(Integer, nullable=True)\n    description = Column(Text, nullable=True)\n    rating = Column(Float, nullable=True)\n    poster = Column(String, nullable=True)\n    genres = relationship(\"Genre\", secondary=film_genre, back_populates=\"films\")\n    actors = relationship(\"Actor\", secondary=film_actor, back_populates=\"films\")",
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_genre",
+        "kind": 5,
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "peekOfCode": "film_genre = Table(\n    \"film_genre\", Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"films.id\"), primary_key=True),\n    Column(\"genre_id\", Integer, ForeignKey(\"genres.id\"), primary_key=True)\n)\nfilm_actor = Table(\n    \"film_actor\", Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"films.id\"), primary_key=True),\n    Column(\"actor_id\", Integer, ForeignKey(\"actors.id\"), primary_key=True)\n)",
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_actor",
+        "kind": 5,
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "peekOfCode": "film_actor = Table(\n    \"film_actor\", Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"films.id\"), primary_key=True),\n    Column(\"actor_id\", Integer, ForeignKey(\"actors.id\"), primary_key=True)\n)\nfilm_director = Table(\n    \"film_director\", Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"films.id\"), primary_key=True),\n    Column(\"director_id\", Integer, ForeignKey(\"directors.id\"), primary_key=True)\n)",
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_director",
+        "kind": 5,
+        "importPath": "app.models.film",
+        "description": "app.models.film",
+        "peekOfCode": "film_director = Table(\n    \"film_director\", Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"films.id\"), primary_key=True),\n    Column(\"director_id\", Integer, ForeignKey(\"directors.id\"), primary_key=True)\n)\nclass Film(Base):\n    __tablename__ = \"films\"\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, unique=True, nullable=False)\n    year = Column(Integer, nullable=True)",
+        "detail": "app.models.film",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "kind": 6,
+        "importPath": "app.models.genre",
+        "description": "app.models.genre",
+        "peekOfCode": "class Genre(Base):\n    __tablename__ = \"genres\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=film_genre, back_populates=\"genres\")",
+        "detail": "app.models.genre",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "class UserRole(enum.Enum):\n    user = \"user\"\n    admin = \"admin\"\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String, unique=True, index=True, nullable=False)\n    password_hash = Column(String, nullable=False)\n    avatar_url = Column(String, nullable=True)\n    role = Column(Enum(UserRole), default=UserRole.user)  # Здесь Enum импортирован правильно",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String, unique=True, index=True, nullable=False)\n    password_hash = Column(String, nullable=False)\n    avatar_url = Column(String, nullable=True)\n    role = Column(Enum(UserRole), default=UserRole.user)  # Здесь Enum импортирован правильно",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "upload_avatar",
+        "kind": 2,
+        "importPath": "app.orm.profile",
+        "description": "app.orm.profile",
+        "peekOfCode": "def upload_avatar(file, db: Session, user: User):\n    try:\n        upload_dir = \"uploads/avatars/\"\n        os.makedirs(upload_dir, exist_ok=True)\n        file_location = os.path.join(upload_dir, f\"{user.username}_avatar.jpg\")\n        with open(file_location, \"wb\") as f:\n            f.write(file.file.read())\n        user.avatar_url = file_location\n        db.commit()\n        return {\"filename\": file_location}",
+        "detail": "app.orm.profile",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_username",
+        "kind": 2,
+        "importPath": "app.orm.user",
+        "description": "app.orm.user",
+        "peekOfCode": "def get_user_by_username(db: Session, username: str):\n    \"\"\"\n    Получение пользователя по username.\n    \"\"\"\n    query = select(User).filter(User.username == username)\n    return db.execute(query).scalar_one_or_none()  # Лучше scalar_one_or_none()\ndef create_user(user: UserCreate, db: Session):\n    new_user = User(\n        username=user.username,\n        password_hash=user.password,  # password = уже хеш, это норм",
+        "detail": "app.orm.user",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.orm.user",
+        "description": "app.orm.user",
+        "peekOfCode": "def create_user(user: UserCreate, db: Session):\n    new_user = User(\n        username=user.username,\n        password_hash=user.password,  # password = уже хеш, это норм\n        role=user.role                # ❗️ты забыл передать роль!\n    )\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return new_user",
+        "detail": "app.orm.user",
+        "documentation": {}
+    },
+    {
+        "label": "show_users",
+        "kind": 2,
+        "importPath": "app.orm.user",
+        "description": "app.orm.user",
+        "peekOfCode": "def show_users(db: Session):\n    \"\"\"\n    Получение списка всех пользователей.\n    \"\"\"\n    query = select(User)\n    return db.execute(query).scalars().all()",
+        "detail": "app.orm.user",
+        "documentation": {}
+    },
+    {
+        "label": "Actor",
+        "kind": 6,
+        "importPath": "app.schemas.actor",
+        "description": "app.schemas.actor",
+        "peekOfCode": "class Actor(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=film_actor_association, back_populates=\"actors\")",
+        "detail": "app.schemas.actor",
+        "documentation": {}
+    },
+    {
+        "label": "film_actor_association",
+        "kind": 5,
+        "importPath": "app.schemas.actor",
+        "description": "app.schemas.actor",
+        "peekOfCode": "film_actor_association = Table(\n    \"film_actor_association\",\n    Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"film.id\"), primary_key=True),\n    Column(\"actor_id\", Integer, ForeignKey(\"actor.id\"), primary_key=True)\n)\n# Модель актера/режиссера\nclass Actor(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)",
+        "detail": "app.schemas.actor",
+        "documentation": {}
+    },
+    {
+        "label": "Director",
+        "kind": 6,
+        "importPath": "app.schemas.director",
+        "description": "app.schemas.director",
+        "peekOfCode": "class Director(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=film_director_association, back_populates=\"directors\")",
+        "detail": "app.schemas.director",
+        "documentation": {}
+    },
+    {
+        "label": "film_director_association",
+        "kind": 5,
+        "importPath": "app.schemas.director",
+        "description": "app.schemas.director",
+        "peekOfCode": "film_director_association = Table(\n    \"film_director_association\",\n    Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"film.id\"), primary_key=True),\n    Column(\"director_id\", Integer, ForeignKey(\"director.id\"), primary_key=True)\n)\n# Модель режиссера\nclass Director(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)",
+        "detail": "app.schemas.director",
+        "documentation": {}
+    },
+    {
+        "label": "Film",
+        "kind": 6,
+        "importPath": "app.schemas.film",
+        "description": "app.schemas.film",
+        "peekOfCode": "class Film(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    title: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    description: Mapped[str] = mapped_column(Text, nullable=False)\n    release_year: Mapped[int] = mapped_column(Integer, nullable=False)\n    director: Mapped[str] = mapped_column(String, nullable=False)\n    created_at: Mapped[str] = mapped_column(\n        TIMESTAMP(timezone=True), server_default=func.now()\n    )\n    is_active: Mapped[bool] = mapped_column(Boolean, default=True)",
+        "detail": "app.schemas.film",
+        "documentation": {}
+    },
+    {
+        "label": "film_genre_association",
+        "kind": 5,
+        "importPath": "app.schemas.film",
+        "description": "app.schemas.film",
+        "peekOfCode": "film_genre_association = Table(\n    \"film_genre_association\",\n    Base.metadata,\n    Column(\"film_id\", Integer, ForeignKey(\"film.id\"), primary_key=True),\n    Column(\"genre_id\", Integer, ForeignKey(\"genre.id\"), primary_key=True)\n)\nclass Film(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    title: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    description: Mapped[str] = mapped_column(Text, nullable=False)",
+        "detail": "app.schemas.film",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "kind": 6,
+        "importPath": "app.schemas.genre",
+        "description": "app.schemas.genre",
+        "peekOfCode": "class Genre(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=\"film_genre_association\", back_populates=\"genres\")",
+        "detail": "app.schemas.genre",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "kind": 6,
+        "importPath": "app.schemas.list",
+        "description": "app.schemas.list",
+        "peekOfCode": "class List(Base):\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    name: Mapped[str] = mapped_column(String, unique=True, nullable=False)\n    films = relationship(\"Film\", secondary=\"film_list_association\", back_populates=\"lists\")",
+        "detail": "app.schemas.list",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserLogin(BaseModel):\n    username: str\n    password: str\n    class Config:\n        from_attributes = True\n# Схема для создания нового пользователя\nclass UserCreate(BaseModel):\n    username: str\n    password: str\n    role: UserRole = UserRole.user",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserCreate(BaseModel):\n    username: str\n    password: str\n    role: UserRole = UserRole.user\n    class Config:\n        from_attributes = True\nclass UserUpdate(BaseModel):\n    new_username: Optional[str] = None\n    new_password: Optional[str] = None\n    class Config:",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    new_username: Optional[str] = None\n    new_password: Optional[str] = None\n    class Config:\n        from_attributes = True\nclass UserOut(BaseModel):\n    username: str\n    avatar_url: str\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserOut(BaseModel):\n    username: str\n    avatar_url: str\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    \"\"\"\n    Хеширование пароля с использованием bcrypt\n    \"\"\"\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"\n    Проверка пароля.\n    \"\"\"\n    return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"\n    Проверка пароля.\n    \"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: timedelta = None):\n    \"\"\"\n    Создает JWT токен с данными пользователя.\n    \"\"\"\n    if expires_delta:",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: timedelta = None):\n    \"\"\"\n    Создает JWT токен с данными пользователя.\n    \"\"\"\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = data.copy()\n    to_encode.update({\"exp\": expire})",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "def verify_token(token: str):\n    \"\"\"\n    Проверяет и декодирует JWT токен.\n    \"\"\"\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"TOKEN_LIFESPAN\", 60))\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_password_hash(password: str) -> str:\n    \"\"\"\n    Хеширование пароля с использованием bcrypt\n    \"\"\"\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"TOKEN_LIFESPAN\", 60))\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_password_hash(password: str) -> str:\n    \"\"\"\n    Хеширование пароля с использованием bcrypt\n    \"\"\"\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"TOKEN_LIFESPAN\", 60))\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_password_hash(password: str) -> str:\n    \"\"\"\n    Хеширование пароля с использованием bcrypt\n    \"\"\"\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"\n    Проверка пароля.",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.service.auth",
+        "description": "app.service.auth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_password_hash(password: str) -> str:\n    \"\"\"\n    Хеширование пароля с использованием bcrypt\n    \"\"\"\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"\n    Проверка пароля.\n    \"\"\"",
+        "detail": "app.service.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.service.current_user",
+        "description": "app.service.current_user",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()\n        if user is None:\n            raise HTTPException(status_code=404, detail=\"User not found\")\n        return user",
+        "detail": "app.service.current_user",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "app.service.current_user",
+        "description": "app.service.current_user",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\nJWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\")\nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()",
+        "detail": "app.service.current_user",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.service.current_user",
+        "description": "app.service.current_user",
+        "peekOfCode": "JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\")\nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()\n        if user is None:",
+        "detail": "app.service.current_user",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_ALGORITHM",
+        "kind": 5,
+        "importPath": "app.service.current_user",
+        "description": "app.service.current_user",
+        "peekOfCode": "JWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()\n        if user is None:\n            raise HTTPException(status_code=404, detail=\"User not found\")",
+        "detail": "app.service.current_user",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        # Декодируем токен\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()\n        if user is None:\n            raise HTTPException(status_code=404, detail=\"User not found\")",
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "is_admin",
+        "kind": 2,
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "peekOfCode": "def is_admin(db: Session = Depends(get_db), current_user: User = Depends(get_current_user)):\n    if current_user.role != UserRole.admin:\n        raise HTTPException(status_code=403, detail=\"Access forbidden: Admins only\")\n    return current_user",
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\nJWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\") \nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        # Декодируем токен\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")",
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "peekOfCode": "JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\") \nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        # Декодируем токен\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()",
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_ALGORITHM",
+        "kind": 5,
+        "importPath": "app.service.dependencies",
+        "description": "app.service.dependencies",
+        "peekOfCode": "JWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)) -> User:\n    try:\n        # Декодируем токен\n        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])\n        username: str = payload.get(\"sub\")\n        if username is None:\n            raise HTTPException(status_code=401, detail=\"Token is invalid\")\n        user = db.query(User).filter(User.username == username).first()\n        if user is None:",
+        "detail": "app.service.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Hasher",
+        "kind": 6,
+        "importPath": "app.service.hashing",
+        "description": "app.service.hashing",
+        "peekOfCode": "class Hasher:\n    @staticmethod\n    def get_password_hash(password: str) -> str:\n        return pwd_context.hash(password)\n    @staticmethod\n    def verify_password(plain_password: str, hashed_password: str) -> bool:\n        return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "app.service.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.service.hashing",
+        "description": "app.service.hashing",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nclass Hasher:\n    @staticmethod\n    def get_password_hash(password: str) -> str:\n        return pwd_context.hash(password)\n    @staticmethod\n    def verify_password(plain_password: str, hashed_password: str) -> bool:\n        return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "app.service.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "kind": 5,
+        "importPath": "app.celery_worker",
+        "description": "app.celery_worker",
+        "peekOfCode": "celery_app = Celery(\n    'film_parser',  # Имя задачи\n    broker='redis://localhost:6379/0',  # Адрес брокера Redis\n    backend='redis://localhost:6379/0',  # Для хранения результатов\n)\n# Можно добавлять дополнительные настройки, если нужно\ncelery_app.conf.update(\n    task_routes = {\n        'tasks.parse_films_task': {'queue': 'film_queue'},\n    },",
+        "detail": "app.celery_worker",
+        "documentation": {}
+    },
+    {
+        "label": "ProdDBSettings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class ProdDBSettings:\n    \"\"\"\n    Класс, содержащий основные настройки для подключения к рабочей базе данных.\n    \"\"\"\n    DB_USER: str = os.getenv(\"DB_USER\")\n    DB_PASSWORD: str = os.getenv(\"DB_PASSWORD\")\n    DB_HOST: str = os.getenv(\"DB_HOST\")\n    DB_PORT: str = os.getenv(\"DB_PORT\", 5432)\n    DB_NAME: str = os.getenv(\"DB_NAME\")\n    DATABASE_URL: str = (",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "JWTTokenSettings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class JWTTokenSettings:\n    \"\"\"\n    Класс, содержащий основные настройки для созданий JWT токена.\n    \"\"\"\n    JWT_SECRET_KEY: str = os.getenv(\"JWT_SECRET_KEY\")\n    TOKEN_LIFESPAN: int = int(os.getenv(\"TOKEN_LIFESPAN\"))\n    VERIFY_SIGNATURE: str = os.getenv(\"VERIFY_SIGNATURE\")\nclass TestDBSettings:\n    \"\"\"\n    Класс, содержащий основные настройки для подключения к тестовой базе данных.",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "TestDBSettings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class TestDBSettings:\n    \"\"\"\n    Класс, содержащий основные настройки для подключения к тестовой базе данных.\n    \"\"\"\n    DB_USER: str = \"postgres\"\n    DB_PASSWORD: str = os.getenv(\"DB_PASSWORD\")\n    DB_HOST: str = \"localhost\"\n    DB_PORT: str = \"5432\"\n    DB_NAME: str = \"postgres\"\n    DATABASE_URL: str = (",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "project_settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "project_settings = {\n    \"title\": \"Fast API application\",\n    \"version\": \"1.0\",\n    \"description\": \"Fast API application. Application include asyncpg+sqlalchemy technologies\",\n}\n# Settings for database connection\nclass ProdDBSettings:\n    \"\"\"\n    Класс, содержащий основные настройки для подключения к рабочей базе данных.\n    \"\"\"",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "prod_db_settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "prod_db_settings = ProdDBSettings()\njwt_token_settings = JWTTokenSettings()\ntest_db_settings = TestDBSettings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_token_settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "jwt_token_settings = JWTTokenSettings()\ntest_db_settings = TestDBSettings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "test_db_settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "test_db_settings = TestDBSettings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\n# Создаём синхронный движок\nengine = create_engine(DATABASE_URL, echo=True)\n# Создаём фабрику сессий\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\n# Определяем базовый класс для моделей\nBase = declarative_base()\n# Функция для получения сессии (с использованием `yield`)\ndef get_db():\n    db = SessionLocal()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, echo=True)\n# Создаём фабрику сессий\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\n# Определяем базовый класс для моделей\nBase = declarative_base()\n# Функция для получения сессии (с использованием `yield`)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)\n# Определяем базовый класс для моделей\nBase = declarative_base()\n# Функция для получения сессии (с использованием `yield`)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "Base = declarative_base()\n# Функция для получения сессии (с использованием `yield`)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "UserException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class UserException(HTTPException):\n    \"\"\"\n    Базовый класс исключения для объектов модели User.\n    \"\"\"\n    pass\nclass BlogException(HTTPException):\n    \"\"\"\n    Базовый класс исключения для объектов модели Blog.\n    \"\"\"\n    pass",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BlogException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class BlogException(HTTPException):\n    \"\"\"\n    Базовый класс исключения для объектов модели Blog.\n    \"\"\"\n    pass\nclass UniqueUserEmailException(UserException):\n    \"\"\"\n    Исключение вызывается при нарушении уникальности поля email у объектов модели User.\n    \"\"\"\n    def __init__(self, *message):",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueUserEmailException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class UniqueUserEmailException(UserException):\n    \"\"\"\n    Исключение вызывается при нарушении уникальности поля email у объектов модели User.\n    \"\"\"\n    def __init__(self, *message):\n        super().__init__(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=message\n            if message\n            else \"Указанная электронная почта уже используется\",",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserInstanceException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class UserInstanceException(BlogException):\n    \"\"\"\n    Исключение вызывается в случае, если искомый объект модели User не существует.\n    \"\"\"\n    def __init__(self, *message):\n        super().__init__(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=message\n            if message\n            else \"Пользователь с указанными данными не существует\",",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueUsernameException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class UniqueUsernameException(UserException):\n    \"\"\"\n    Исключение вызывается при нарушении уникальности поля username у объектов модели User.\n    \"\"\"\n    def __init__(self, *message):\n        super().__init__(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=message\n            if message\n            else \"Указанное имя пользователя уже используется\",",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueBlogTitleException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class UniqueBlogTitleException(BlogException):\n    \"\"\"\n    Исключение вызывается при нарушении уникальности поля title у объектов модели Blog.\n    \"\"\"\n    def __init__(self, *message):\n        super().__init__(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=message if message else \"Указанное название блога уже используется\",\n        )\nclass BlogInstanceException(BlogException):",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BlogInstanceException",
+        "kind": 6,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "class BlogInstanceException(BlogException):\n    \"\"\"\n    Исключение вызывается при передаче несуществующего значения ID объекта модели Blog.\n    \"\"\"\n    def __init__(self, *message):\n        super().__init__(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=message if message else \"Блог с указанным ID не существует\",\n        )",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.router",
+        "description": "app.router",
+        "peekOfCode": "app = FastAPI()\norigins = [\n    \"http://localhost:5173\",  # порт, на котором работает твой фронтенд\n]\n# Настройка CORS\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,  # Открыть доступ с любых источников (для тестирования, потом можешь ограничить)\n    allow_credentials=True,  # Позволяет отправлять cookies и заголовки\n    allow_methods=[\"*\"],  # Разрешаем все методы (GET, POST и т.д.)",
+        "detail": "app.router",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app.router",
+        "description": "app.router",
+        "peekOfCode": "origins = [\n    \"http://localhost:5173\",  # порт, на котором работает твой фронтенд\n]\n# Настройка CORS\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,  # Открыть доступ с любых источников (для тестирования, потом можешь ограничить)\n    allow_credentials=True,  # Позволяет отправлять cookies и заголовки\n    allow_methods=[\"*\"],  # Разрешаем все методы (GET, POST и т.д.)\n    allow_headers=[\"*\"],  # Разрешаем все заголовки",
+        "detail": "app.router",
+        "documentation": {}
+    },
+    {
+        "label": "parse_films_task",
+        "kind": 2,
+        "importPath": "app.tasks",
+        "description": "app.tasks",
+        "peekOfCode": "def parse_films_task():\n    # Запускаем браузер\n    options = webdriver.ChromeOptions()\n    options.add_argument(\"--headless\")\n    driver = webdriver.Chrome(options=options)\n    # Открываем базу данных\n    db = SessionLocal()\n    try:\n        # Инстанцируем парсер\n        parser = FilmParser(driver, db)",
+        "detail": "app.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "FilmParser",
+        "kind": 6,
+        "importPath": "parsing.parse_films",
+        "description": "parsing.parse_films",
+        "peekOfCode": "class FilmParser:\n    def __init__(self, driver, db: Session):\n        self.driver = driver\n        self.db = db\n    def scroll_and_click(self, element):\n        self.driver.execute_script(\"arguments[0].scrollIntoView(true);\", element)\n        WebDriverWait(self.driver, 5).until(EC.element_to_be_clickable(element)).click()\n    def get_film_links(self):\n        url = \"https://letterboxd.com/films/popular/page/4/\"\n        self.driver.get(url)",
+        "detail": "parsing.parse_films",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "parsing.parse_films",
+        "description": "parsing.parse_films",
+        "peekOfCode": "def main():\n    options = webdriver.ChromeOptions()\n    options.add_argument(\"--headless\")\n    driver = webdriver.Chrome(options=options)\n    db = SessionLocal()\n    try:\n        parser = FilmParser(driver, db)\n        films_links = parser.get_film_links()\n        parsed_films = []\n        for film in films_links:",
+        "detail": "parsing.parse_films",
+        "documentation": {}
+    }
+]
